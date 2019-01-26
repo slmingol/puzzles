@@ -1,4 +1,4 @@
-# Solutions to puzzes
+# Solutions to puzzles
 Here I keep random solutions to programming puzzles that I found interesting.
 
 ### fizzbuzz
